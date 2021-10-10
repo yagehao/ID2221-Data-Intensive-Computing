@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/osboxes/Desktop/lab2/src/sparkstructurestreaming/sparkstreaming.scala:39:31: value split is not a member of org.apache.spark.sql.DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m        val splitDF = inputDF.split(inputDF.value, ",")[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/osboxes/Desktop/lab2/src/sparkstructurestreaming/sparkstreaming.scala:39:45: value value is not a member of org.apache.spark.sql.DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m        val splitDF = inputDF.split(inputDF.value, ",")[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

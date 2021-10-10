@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/osboxes/Desktop/lab2/src/sparkstructurestreaming/target/scala-2.11/spark_kafka_2.11-2.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sparkstreaming[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/osboxes/Desktop/lab2/src/sparkstructurestreaming/target/scala-2.11/classes/sparkstreaming[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sparkstreaming/KafkaSpark$$anonfun$sparkstreaming$KafkaSpark$$mappingFunc$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/osboxes/Desktop/lab2/src/sparkstructurestreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$sparkstreaming$KafkaSpark$$mappingFunc$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sparkstreaming/KafkaSpark.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/osboxes/Desktop/lab2/src/sparkstructurestreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sparkstreaming/KafkaSpark$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/osboxes/Desktop/lab2/src/sparkstructurestreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sparkstreaming/KafkaSpark$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/osboxes/Desktop/lab2/src/sparkstructurestreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sparkstreaming/KafkaSpark$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/osboxes/Desktop/lab2/src/sparkstructurestreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sparkstreaming/KafkaSpark$$typecreator8$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/osboxes/Desktop/lab2/src/sparkstructurestreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$typecreator8$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sparkstreaming/KafkaSpark$$typecreator7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/osboxes/Desktop/lab2/src/sparkstructurestreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$typecreator7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sparkstreaming/KafkaSpark$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/osboxes/Desktop/lab2/src/sparkstructurestreaming/target/scala-2.11/classes/sparkstreaming/KafkaSpark$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
